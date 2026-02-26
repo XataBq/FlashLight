@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
                             .padding(innerPadding)
                             .fillMaxSize(),
                     ) {
-
+                        FlashingLightScreen()
                     }
                 }
             }
